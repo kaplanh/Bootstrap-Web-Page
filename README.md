@@ -20,7 +20,8 @@
       <li> Bootstrap
       <li> Css
       <li> Html
-      <li> fslightbox.js
+      <li> cdnjs/fontawesome
+      <li> animista
     </td>
     <td>  <h4>Once you clone the project</h4>  
       
