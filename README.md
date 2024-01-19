@@ -49,7 +49,7 @@ This website created by bootstrap as a example.
 </div>
 
 
-[Live Link](https://kaplanh.github.io/Bootstrap-Project-Example/)
+[Live Link](https://kaplanh.github.io/Bootstrap-Web-Page/)
 
 
 ![Bootstrap Example](https://github.com/kaplanh/Bootstrap-Project-Example/assets/101884444/8a45c7d4-526f-4fd8-aed6-49f8d5b77e10)
