@@ -6,6 +6,10 @@
   </ul>
 </div>
 
+![Bootstrap web page](https://github.com/kaplanh/Bootstrap-Web-Page/assets/101884444/c895033d-f7ad-4757-8600-d7f92e746321)
+
+[Live Link](https://kaplanh.github.io/Bootstrap-Web-Page/)
+
 <table>
    <thead>
         <tr>
@@ -50,10 +54,8 @@ This website created by bootstrap as a example.
 </div>
 
 
-[Live Link](https://kaplanh.github.io/Bootstrap-Web-Page/)
 
 
-![Bootstrap web page](https://github.com/kaplanh/Bootstrap-Web-Page/assets/101884444/c895033d-f7ad-4757-8600-d7f92e746321)
 
 <div id="user-content-toc">
   <ul align="left">
